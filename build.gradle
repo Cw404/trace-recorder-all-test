@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'cn.xusc'
+version '1.0-SNAPSHOT'
+
+// 所有项目配置
+allprojects {
+    repositories {
+        // 优先本地仓库加载
+        mavenLocal()
+        // 阿里云中央仓库加载
+        maven { url 'https://maven.aliyun.com/repository/public/' }
+        maven { url 'https://maven.aliyun.com/repository/spring/' }
+        // 默认的中央仓库加载
+        mavenCentral()
+    }
+
+    // 配置源码和目标编译的jdk版本
+    sourceCompatibility = targetCompatibility = JavaVersion.VERSION_11
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    group 'cn.xusc'
+    version = 1.0
+}

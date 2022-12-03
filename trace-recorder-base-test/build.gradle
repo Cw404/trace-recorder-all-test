@@ -1,0 +1,6 @@
+dependencies {
+    implementation 'cn.xusc:trace-recorder-core:2.5.2'
+
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-simple
+    implementation 'org.slf4j:slf4j-simple:2.0.3'
+}

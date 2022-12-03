@@ -1,0 +1,3 @@
+rootProject.name = 'trace-recorder-all-test'
+include 'trace-recorder-base-test'
+
