@@ -8,3 +8,7 @@
 4. [MessageFormatBootstrap.java](trace-recorder-base-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FMessageFormatBootstrap.java) - 消息格式化使用
 5. [MessageHideBootstrap.java](trace-recorder-base-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FMessageHideBootstrap.java) - 消息隐藏使用
 6. [MessageHideApplyBootstrap.java](trace-recorder-base-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FMessageHideApplyBootstrap.java) - 消息隐藏应用
+
+## [trace-recorder-chart-test](trace-recorder-chart-test) - 图化测试
+1. [OneDayLifeBootstrap.java](trace-recorder-chart-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FOneDayLifeBootstrap.java) - 简约一天生活图化使用
+2. [CalculatorBootstrap.java](trace-recorder-chart-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FCalculatorBootstrap.java) - 计算器图化使用
