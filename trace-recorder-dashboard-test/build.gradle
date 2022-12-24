@@ -1,0 +1,16 @@
+dependencies {
+    // https://mvnrepository.com/artifact/cn.xusc/trace-recorder-core
+    implementation 'cn.xusc:trace-recorder-core:2.5.3'
+
+    // https://mvnrepository.com/artifact/cn.xusc/trace-recorder-dashboard-base
+    implementation 'cn.xusc:trace-recorder-dashboard-base:2.5.3'
+
+    // https://mvnrepository.com/artifact/cn.xusc/trace-recorder-dashboard-component-chart-echarts-relation
+    implementation 'cn.xusc:trace-recorder-dashboard-component-chart-echarts-relation:2.5.3'
+
+    // https://mvnrepository.com/artifact/cn.xusc/trace-recorder-dashboard-component-chart-echarts-bar
+    implementation 'cn.xusc:trace-recorder-dashboard-component-chart-echarts-bar:2.5.3'
+
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-simple
+    implementation 'org.slf4j:slf4j-simple:2.0.3'
+}

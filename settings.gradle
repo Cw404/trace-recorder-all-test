@@ -1,3 +1,4 @@
 rootProject.name = 'trace-recorder-all-test'
 include 'trace-recorder-base-test'
 include 'trace-recorder-chart-test'
+include 'trace-recorder-dashboard-test'

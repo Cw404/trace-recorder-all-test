@@ -12,3 +12,7 @@
 ## [trace-recorder-chart-test](trace-recorder-chart-test) - 图化测试
 1. [OneDayLifeBootstrap.java](trace-recorder-chart-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FOneDayLifeBootstrap.java) - 简约一天生活图化使用
 2. [CalculatorBootstrap.java](trace-recorder-chart-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FCalculatorBootstrap.java) - 计算器图化使用
+
+## [trace-recorder-dashboard-test](trace-recorder-dashboard-test) - 仪表盘测试
+1. [Bootstrap.java](trace-recorder-dashboard-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FBootstrap.java)- 基础使用复习
+2. [OneDayLifeBootstrap.java](trace-recorder-dashboard-test%2Fsrc%2Fmain%2Fjava%2Fcn%2Fxusc%2FOneDayLifeBootstrap.java) - 简约一天生活仪表盘使用
